@@ -1,0 +1,6 @@
+for (int ii = 0; i < 10; i=i+1)
+{
+a = f;
+char c_f;
+}
+return 0;
